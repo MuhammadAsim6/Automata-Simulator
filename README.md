@@ -1,5 +1,4 @@
-![Image](https://github.com/user-attachments/assets/9d31760f-c128-4e11-a3db-25c5a64077a3) ![Image](https://github.com/user-attachments/assets/b236d9e8-2fbf-4a6f-a35e-f76d8412638b)
-![Image](https://github.com/user-attachments/assets/f90ff1a6-4452-4017-a4ef-ac02e5fac281) ![Image](https://github.com/user-attachments/assets/3144593f-4bb5-4a3a-8ca0-7afc4788346d)
+![Image](https://github.com/user-attachments/assets/175aa44c-1277-49e8-bb02-b1e394a3fca3) ![Image](https://github.com/user-attachments/assets/9c3add11-ac66-4d78-b1e6-110dc4b15814) ![Image](https://github.com/user-attachments/assets/a87d4103-498f-4a25-b940-8cf39c2a3b29) ![Image](https://github.com/user-attachments/assets/cba996d3-f166-467f-97ad-ac6bd49e0415)
 
 # Theory of Automata Simulator - Technical Implementation Guide
 
