@@ -1,3 +1,6 @@
+![Image](https://github.com/user-attachments/assets/9d31760f-c128-4e11-a3db-25c5a64077a3) ![Image](https://github.com/user-attachments/assets/b236d9e8-2fbf-4a6f-a35e-f76d8412638b)
+![Image](https://github.com/user-attachments/assets/f90ff1a6-4452-4017-a4ef-ac02e5fac281) ![Image](https://github.com/user-attachments/assets/3144593f-4bb5-4a3a-8ca0-7afc4788346d)
+
 # Theory of Automata Simulator - Technical Implementation Guide
 
 ## 1. Core Data Structures
